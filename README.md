@@ -1,4 +1,4 @@
-# Facebook Recruiting IV: Human or Robot?
+# San Francisco and NYC Mapping by Traffic Patterns
 
 > Team Member: Crystal Sun, Yixin Sun, Julia Tavares
 >
@@ -8,13 +8,13 @@
 - Project Goal
 - Data Source
 - Data Preprocessing
-  - [Reformatting SF Data](<https://github.com/crystalxs/human-or-robot/blob/master/data_cleaning.ipynb>)
-  - [NYC Data Feature Engineering](<https://github.com/crystalxs/human-or-robot/blob/master/feature_engineering.ipynb>)
-  - [SF Data Feature Engineering](<https://github.com/crystalxs/human-or-robot/blob/master/feature_engineering.ipynb>)
-- [Modeling](#Modeling)
-  - [K-means](<https://github.com/crystalxs/human-or-robot/blob/master/modeling_decision_tree.ipynb>)
-  - [Bisecting K-Means](<https://github.com/crystalxs/human-or-robot/blob/master/modeling_random_forest.ipynb>)
-- [Summary](#Summary)
+  - [Reformatting SF Data](<https://github.com/crystalxs/nyc-sf-mapping/blob/master/SF_DATA_preprocess.ipynb>)
+  - [NYC Data Feature Engineering](<https://github.com/crystalxs/nyc-sf-mapping/blob/master/NYC_feature_engineering.ipynb>)
+  - [SF Data Feature Engineering](<https://github.com/crystalxs/nyc-sf-mapping/blob/master/SF_feature_engineering.ipynb>)
+- Modeling
+  - [K-means](<https://github.com/crystalxs/nyc-sf-mapping/blob/master/first_modeling.ipynb>)
+  - [Bisecting K-Means](<https://github.com/crystalxs/nyc-sf-mapping/blob/master/second_modeling.ipynb>)
+- Summary
 
 ## Project Goal
 
